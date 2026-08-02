@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=8251610,RESOLUTION=1918x802
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled27@job-748ebc23-30e5-4b73-a9f8-55e347cc9443/748ebc23-30e5-4b73-a9f8-55e347cc9443/hls/index.m3u8
